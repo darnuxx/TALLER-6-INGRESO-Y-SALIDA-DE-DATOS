@@ -1,0 +1,12 @@
+{
+    "servicios": [
+        {
+            "nombre": "SSH",
+            "puerto": 22
+        },
+        {
+            "nombre": "WEB",
+            "puerto": 80
+        }
+    ]
+}

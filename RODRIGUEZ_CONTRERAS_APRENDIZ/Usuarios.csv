@@ -1,0 +1,5 @@
+Cuenta;Nombres;Apellidos;Cargo;Dependencia;Oficina;Telefono;Email;Compania;Ciudad;Estado
+1001;Juan;Perez;Administrador;TI;101;3001112233;juan@empresa.com;TechSoft;Bogota;Activo
+1002;Maria;Lopez;Analista;Finanzas;102;3002223344;maria@empresa.com;TechSoft;Medellin;Activo
+1003;Carlos;Ramirez;Soporte;TI;103;3003334455;carlos@empresa.com;TechSoft;Cali;Inactivo
+1004;Laura;Gomez;Gerente;Ventas;104;3004445566;laura@empresa.com;TechSoft;Barranquilla;Activo
